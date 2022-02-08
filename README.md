@@ -1,0 +1,1 @@
+# 1_3_2_Cyclic-algorithm-and-a-program-for-calculating-the-result-using-a-formula
